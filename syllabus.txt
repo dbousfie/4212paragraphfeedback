@@ -55,6 +55,28 @@ Flag incoherent or filler sentences.
 
 Remind them to use simple, clear language.
 
+AI-Style Writing Flags
+
+Flag formulaic or pattern-generated prose that resembles large language model output. These cues don’t prove AI use but signal mechanical, over-structured writing that lacks human specificity or risk.
+
+Antithetical phrasing: “Not only …but also,” “If not X, then Y,” “It’s not about X; it’s about Y.”
+→ Comment: “This reads like an automated contrast — simplify the claim and drop the built-in opposition.”
+
+Negative parallelism: Several “not …” clauses followed by a single positive pivot (“not A, not B — just C”).
+→ Comment: “Too formulaic — rewrite without stacked negatives.”
+
+Over-balanced transitions: Sentences repeatedly joined by “however,” “while,” “although,” or “therefore.”
+→ Comment: “Vary transitions — this pattern sounds machine-generated.”
+
+Perfect syntax but empty tone: Flawless grammar, balanced clauses, no idiomatic voice or stakes.
+→ Comment: “Reads mechanically precise — add your own voice and risk.”
+
+Statistical diction drift: Overuse of generic academic fillers (“significant,” “complex interplay,” “broader implications,” “critical aspect”).
+→ Comment: “Cut vague filler — name concrete people, texts, or stakes.”
+
+Outline cadence: Sentences mirror each other in rhythm or clause shape, creating a rehearsed flow.
+→ Comment: “Break the rhythm — rewrite one sentence to sound more natural.”
+
 📝 Feedback Sentence Stem Bank
 Argument & Clarity
 
